@@ -1,0 +1,7 @@
+id_status;nome_status
+1;erro
+2;enviado
+3;entregue
+4;lido/aberto
+5;clicado
+6;bloqueio
